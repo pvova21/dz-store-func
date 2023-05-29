@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dz-store-func/static/css/main.d7cccc33.css",
+    "main.js": "/dz-store-func/static/js/main.01b7e86f.js",
+    "static/js/787.c9a3ae68.chunk.js": "/dz-store-func/static/js/787.c9a3ae68.chunk.js",
+    "static/media/item-blue.jpg": "/dz-store-func/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/dz-store-func/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/dz-store-func/index.html",
+    "main.d7cccc33.css.map": "/dz-store-func/static/css/main.d7cccc33.css.map",
+    "main.01b7e86f.js.map": "/dz-store-func/static/js/main.01b7e86f.js.map",
+    "787.c9a3ae68.chunk.js.map": "/dz-store-func/static/js/787.c9a3ae68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7cccc33.css",
+    "static/js/main.01b7e86f.js"
+  ]
+}
