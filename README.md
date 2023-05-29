@@ -2,6 +2,8 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/9gq28d62nmj27jsa?svg=true)](https://ci.appveyor.com/project/pvova21/dz-store-func)
 
+## [GitHub Pages](https://pvova21.github.io/dz-store-func/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
