@@ -35,10 +35,10 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://pvova21.github.io/dz-store-func#build"
+    ]
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "homepage": "http://pvova21.github.io/dz-store-func"
 }
